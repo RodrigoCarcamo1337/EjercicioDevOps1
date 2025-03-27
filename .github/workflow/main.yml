@@ -25,4 +25,4 @@ jobs:
       - name : Ejecutar pruebas
         run: |
           cd ejercicioTrackDevops1-main
-          python manage.py testgit 
+          python manage.py test
